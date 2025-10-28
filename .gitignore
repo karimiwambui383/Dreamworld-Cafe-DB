@@ -1,0 +1,11 @@
+# ignore system files
+.DS_Store
+Thumbs.db
+
+# ignore database temp files
+*.sql~
+*.db
+*.sqlite
+
+# ignore environment files
+.env
