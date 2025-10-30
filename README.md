@@ -59,10 +59,11 @@ Add a LICENSE file (for example MIT) when ready.
 ## Progress / Roadmap
 - [x] Project repo and README (phase 1)
 - [ ] Design ERD (phase 2)
-- [ ] Create SQL schema and sample data (phase 3)
+- [x] Create SQL schema and sample data (phase 3)
 - [ ] Add sample queries and analytics (phase 4)
 - [ ] Optional: small web demo (phase 5)
 
 ---
+i added a the SQL schema 
 
 Built and maintained by Star (NomadX Creations)
